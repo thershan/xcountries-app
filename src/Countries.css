@@ -1,0 +1,18 @@
+/* src/Countries.css */
+.country-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .country-item {
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .flag-img {
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+  }
+  
